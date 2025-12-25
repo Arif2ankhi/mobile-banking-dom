@@ -5,4 +5,4 @@
 
 
 ### Live Link 
-https://mobile-banking-dom.netlify.app/
+https://app.netlify.com/projects/mobile-banking-with-dom/overview
