@@ -5,7 +5,7 @@ document.getElementById('btn-add-money')
 
         // const addMoney = document.getElementById('input-add-money').value;
         // const addMoneyNumber =parseFloat(addMoney);
-        console.log('add money button clicked');
+        console.log('Deposit  button clicked');
 
         // getInputFieldValueById()
         // const addMoney = getInputFieldValueById();

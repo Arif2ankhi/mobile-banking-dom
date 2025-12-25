@@ -22,6 +22,6 @@ document.getElementById('btn-cash-out')
 
     }
 else{
-    alert('No money ..........DGM')
+    alert('No money available in your account')
 }
 });
